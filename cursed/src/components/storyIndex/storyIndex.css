@@ -1,0 +1,22 @@
+.index-container {
+    display:flex !important;
+    width: 100%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    justify-content:center !important;
+    flex-direction: column;
+}
+
+.index-paper {
+    width: 70%;
+
+}
+
+.index-list {
+    display: flex;
+    justify-content: center;
+}
+
+.index-item {
+    justify-content: center !important;
+}
