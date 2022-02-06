@@ -313,6 +313,11 @@ const chapters = [
             </p>,
         ]
     },
+    {
+        id: 3,
+        title: `Chapter 2: Dead or Alive?`,
+        body: 'Coming Soon!'
+    },
 ]
 
 export default chapters;
