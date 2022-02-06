@@ -8,14 +8,14 @@ const Header = () => {
     return (
         <header>
         <img src={piano} className="pianoImg" alt="logo" />
-<video
-  className="videoImg"
-  autoPlay
-  loop
->
-  <source src={ ink }  type="video/mp4" />
-</video>
-</header>
+        <video
+          className="videoImg"
+          autoPlay
+          loop
+        >
+          <source src={ ink }  type="video/mp4" />
+        </video>
+        </header>
     );
 
 }

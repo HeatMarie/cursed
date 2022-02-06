@@ -135,9 +135,183 @@ const chapters = [
     {
         id: 2,
         title: `Chapter 1: From The Beginning`,
-        body: `\nsomething 
-        \n something
-        something`
+        body: [ 
+            <p key="p37" className="indent story-paragraph">
+                All I could hear was the fast rhythmic beat of my heart as I brushed dirt off the book’s cover. The pain that radiated in my fist with every motion exacerbated the disgust I had for myself. I wanted to save my sister from all that was bad, and yet, there I was watching her leave the park with tears in the black eye that I had caused.  It was only an automatic reaction that caused my knuckles to hit her face. The feeling of bone clashing with bone instantly reminded me of the many times, behind closed doors, Frank did the same to me. I wanted to take it back. But I couldn’t. Soon, daddy’s little Angel would tell him everything.
+            </p>,
+            <p key="p38" className="indent story-paragraph">
+                I tried to bring my thoughts back to the book as I shoved it into my bag and threw it against the pole. Frustration escaped my mouth with a groan as I sat back down on the swing and glided my feet across the dirt. Closing my eyes I tried to remember the way that Grams told me the same interesting dark love story written by a woman locked away from the world.
+            </p>,
+            <p key="p39" className="indent story-paragraph">
+                The Lucious mansion was one of many legends known throughout the small town. And yet, everyone had a different way of telling it. Grams, of course, always told it the best. Every night I spent with her she would tuck me into bed and tell me the story of Lector Lucious and the mansion he built for his wife when they were just lovers. He was an evil man full of rage and jealousy. Some people argue that he wasn’t even a man, he was a demon or even the devil himself. Grams never said what she believed, she would only ever tell me with fear glazed eyes, “Don’t you ever go up there, Haley Lynn. Not even in your dreams. It’s a place filled with darkness and nothing good waits for you there. Hear me?" I would nod with sleepy eyes and she would kiss my forehead and whisper, “Good girl, I love you to the moon. Dream sweet, my darlin'."
+            </p>,
+            <p key="p40" className="indent story-paragraph">
+                I kicked the dry dirt and watched as it floated off the ground. The street lights turned on and as I looked up I noticed the sky had changed to an array of pink and purple hues that were yet obscured by the dark clouds creeping in.
+            </p>,
+            <p key="p41" className="indent story-paragraph">
+                The park sat on a hill that overlooked the small town I never got the chance to leave. I guess, in that way, I resonated with Eleanor; always feeling locked away from the rest of the world. She wanted to be free of her abusive husband; and I wanted to be free from my abusive father. Yet, neither of us made it further than the edge of town. 
+            </p>,
+            <p key="p42" className="indent story-paragraph">
+                One time I tried to run away, I made it as far as Grams farm on the edge of town. She was able to convince my mother to let me stay with her a few nights. I begged Grams to let me stay forever and she just held me tight and cried. We both did. Frank of course was the one to pick me up. He was cordial when he did, used his manners and even gave me a hug and kiss on the head, told me he missed me. All in front of Grams. His mood changed as instantly as the sound of the slamming car door. He put the car in drive and as he drove he never turned around, never looked into the mirror. His dead eyes stayed on the road. 
+            </p>,
+            <p key="p43" className="indent story-paragraph">
+                "If you ever, and I mean ever, even think about doing something like this again, I will make you pay. I'll make the entire family pay. You think what I have done to you is horrible? Just you wait, Haley Lynn, you don't have the first idea what horrible is.  But you will find out. The entire family will. You love your Grams? Your sister? Brother? Yeah, all of them will pay for what you do. Remember that." 
+            </p>,
+            <p key="p44" className="indent story-paragraph">
+                Every time he saw that look in my eyes; that look that said, “I’m done, I’m leaving, I’m telling the world.” all he would have to say is, “Remember what I told you.”  and that would be the end.
+            </p>,
+            <p key="p45" className="indent story-paragraph">
+
+                I watched Angel and her friends walk down the large hill and back into town. All the tiny cars drove by them as they passed Billy’s Bakery, whose door was constantly opening and closing. Parents and high school seniors were walking in and coming out with their big white boxes that I’m sure inside of it held a cake that said, “Congratulations Grad!” They all would say the same thing, with the same green and white ribbons of icing around the edges.
+            </p>,
+            <p key="p46" className="indent story-paragraph">
+                “Come on, Brittney,” I whispered to myself. She was notorious for being late. Strangely enough, she was also the most impatient person I have ever met. None of that helped the dreadful feeling in the pit of my stomach that was screaming, “I cannot go home!” Yet, I sat on the swing alone and there was nowhere else for me to go. 
+            </p>,
+            <p key="p47" className="indent story-paragraph">
+                The ambiance of peace and solitude changed with my darkening fear. This time, walking into the house and facing Frank was going to be worse than any time before. But what other choice did I have? Raindrops began to fall as I stood from the swing and began the longest walk home. Darkness fully consumed the sky. The rain against the pavement smelled more of acid than that of a refreshing cleanse. A storm was brewing.
+            </p>,
+            <p key="p48" className="indent story-paragraph">
+                Dustin will be home tonight; in fact, he should be there now. I tried to tell myself anything that would comfort my mind. Nothing cured the tormented thoughts of Frank. Not even Dustin, who was my savior, the only light I had left since Grams passed.
+            </p>,
+            <p key="p49" className="indent story-paragraph">
+                A loud clash of thunder interrupted my thoughts. Rain poured from the sky, instantly soaking my entire body. The bushes behind me moved. I turned to look. Nothing was there. It’s just the wind, I told myself. Yet, I felt someone or something watching me, lurking in the shadows behind the bush or from within the trees, just waiting for that right moment to jump out. It’s just your imagination, Haley, stop it.
+            </p>,
+            <p key="p50" className="indent story-paragraph">
+                Shaking the thought from my head, I turned my focus to the squishing of my shoes and found a rhythm with each step, counting: one; one, two; one, two, three; one, two, three, four. It didn’t matter how high of a number I got; I always went back to one.
+            </p>,
+            <p key="p51" className="indent story-paragraph">
+                The handrail on the porch was as soaking wet as I was. I used it to climb the few small steps. My body was drained of the life force that kept me moving. It’s amazing how fear affects the body. 
+            </p>,
+            <p key="p52" className="indent story-paragraph">
+                Out of nowhere, a large black shadow flew across my face. The wind from its wings felt like the cold, grasping hands of death. I jumped, grabbed the handrail with both hands and pressed my back into it.
+            </p>,
+            <p key="p53" className="indent story-paragraph">
+                “CAW!” It screamed, perching itself on the lamp that was lighting the front door.
+            </p>,
+            <p key="p54" className="indent story-paragraph">
+                “You scared me!” I said.
+            </p>,
+            <p key="p55" className="indent story-paragraph">
+                As though it understood me, the black crow answered back with another caw. Its beady black eyes watched every move I made. I felt uncomfortable, violated as its eye seemed to pierce through my body and into my mind, listening to my every thought. I shook the feeling. I had enough to worry about for one night. I tried to shoo the pesky bird away from the door. He wouldn’t move. It seemed I was finding every reason to avoid the inevitable. The bird proved that.
+            </p>,
+            <p key="p56" className="indent story-paragraph">
+                My wet hand slowly turned the doorknob, trying not to make a sound. I hoped that if I could get in without being noticed, I could walk right up to my room and avoid all confrontation until the morning. At least then Frank would be too hung-over from his Friday night drinking to give a damn.
+            </p>,
+            <p key="p57" className="indent story-paragraph">
+                The door made a hushed creaking sound that to me sounded like a piercing cry. The bird flew past me and right into the house.
+            </p>,
+            <p key="p58" className="indent story-paragraph">
+                “Shit!”
+            </p>,
+            <p key="p59" className="indent story-paragraph">
+                Frank bellowed out from the kitchen before I even closed the door. “Who let this fucker in?”
+            </p>,
+            <p key="p60" className="indent story-paragraph">
+                I felt Frank’s eyes on me as I put my foot on the first step. I didn’t look up but I could hear his heavy footsteps making their way across the wooden floor. I gulped my fear and took a breath as I stepped up to the second stair, hoping he would just let me go. Hoping that if I was far enough up by the time he got to me he would be too lazy to take the effort to climb the stairs. 
+            </p>,
+            <p key="p61" className="indent story-paragraph">
+                “I should have known it was you,” he snarled. The warmth of his breath lingered on the back of my neck as he spoke. His hand grabbed my hair and forced me back down the stairs. 
+            </p>,
+            <p key="p62" className="indent story-paragraph">
+                The smell of booze was seeping from his pores. He pulled me through an archway that opened up to the kitchen and dining room. White dinner plates still sat on the table, their food half eaten. Lisa and Angel were screaming as the bird flew around their heads.
+            </p>,
+            <p key="p63" className="indent story-paragraph">
+                “Look what you’ve done!” He grabbed my face, pinching my cheeks as hard as he could. I didn’t know if he was talking about the bird or Angel. Perhaps it was about the entire scene in front of me. Regardless, the pressure of his fingers had the skin of cheeks pressing into my teeth and the pain was all I could focus on.
+            </p>,
+            <p key="p64" className="indent story-paragraph">
+                “You’re hurting me, Frank.” I said.
+            </p>,
+            <p key="p65" className="indent story-paragraph">
+                “What did you call me?”
+            </p>,
+            <p key="p66" className="indent story-paragraph">
+                I said nothing. My body was trembling. I could smell the whiskey on his breath. It was another Jack and Coke night, and Jack and Frank do not get along. Something about the combination of the two turned Frank into a monster. I closed my eyes tight as his fingers lifted from my face and I felt the force of his hand before he slapped me.
+            </p>,
+            <p key="p67" className="indent story-paragraph">
+                “It’s father to you, bastard child!”
+            </p>,
+            <p key="p68" className="indent story-paragraph">
+                I opened my eyes and forced back the tears to keep them from falling. The black crow flew down from the ceiling with its talons out and clawed Frank across the face. It was as though the thing was on my side. I smiled.
+            </p>,
+            <p key="p69" className="indent story-paragraph">
+                “You think that shit is funny?” he said. 
+            </p>,
+            <p key="p70" className="indent story-paragraph">
+                “N-no.” 
+            </p>,
+            <p key="p71" className="indent story-paragraph">
+                The room fell silent for a moment before the bird swooped back into the dining room. Angel and Lisa got up screaming and ran upstairs. In the distance, I heard the slamming of a door.
+            </p>,
+            <p key="p72" className="indent story-paragraph">
+                Johnny jumped from the chair and tried to catch it, but his little three-year-old hands were no match for the bird. It dropped to the floor before coming back up at Frank, who caught it with one hand. For a drunk, he had amazing coordination. The bird began struggling and cried out as Frank slowly squeezed it.
+            </p>,
+            <p key="p73" className="indent story-paragraph">
+                “Thought you could bring home a friend, huh?” He held the bird up to my face. It screamed one last time before I heard the cracking of its neck. 
+            </p>,
+            <p key="p74" className="indent story-paragraph">
+                “NO!” My mouth fell open. “You’re a monster!”
+            </p>,
+            <p key="p75" className="indent story-paragraph">
+                He stepped closer to me and without another word he threw his fist straight back and right into my nose. Again, for the millionth time in my life, blood came spilling out and into my hands.
+            </p>,
+            <p key="p76" className="indent story-paragraph">
+                With slurred speech Frank said, “Maybe that will teach you to keep your mouth shut!”  His eyes filled with disgust. To him, I was nothing but an annoyance, a pest, like a parasite that lived to eat away his money and soul.
+            </p>,
+            <p key="p77" className="indent story-paragraph">
+                I wanted to cry. I wanted to cry for the loss of a soul that I felt I caused, for the pain of a broken nose, and for the look in the man’s eyes who claimed to be my father. However, I had learned over the years he would only look at me and say, “Yeah, that’s what I thought. Get up and stop crying like a little pussy.” That’s just how it was. I wished he cared for me like he did Angel, Dustin, and even little Johnny. But he didn’t, he never would.
+            </p>,
+            <p key="p78" className="indent story-paragraph">
+                Instead of bowing my head and covering my cheeks with tears, I stood up tall and looked him straight into the eyes. The taste of copper filled my mouth as blood rushed over my lips, “Highly doubt it, I haven’t learned yet. You might be my father after all.”
+            </p>,
+            <p key="p79" className="indent story-paragraph">
+                He threw his big, fat, boulder hands onto my shoulders and pushed me as hard as he could. 
+            </p>,
+            <p key="p80" className="indent story-paragraph">
+                Stumbling backwards, I fell into the wall behind me, smashing my head against the edge of a large picture frame that held a portrait of Frank’s family. Everyone was included; everyone but me. But at least now my blood can stain the portrait. It'll be like I have been there all along.
+            </p>,
+            <p key="p81" className="indent story-paragraph">
+                The world spun, my knees gave out, and I slid to the floor. Reaching my hand to the back of my head, I felt the ooze of blood that was dripping down the back of my neck, staining my white delicate skin.
+            </p>,
+            <p key="p82" className="indent story-paragraph">
+                “How about now, Haley Lynn, have you learned your lesson? No? Then tell me when.” His metal-toed boots stung as they kicked me first in my side, then my stomach. I rolled onto my side and laid in the fetal position. I felt pathetic and weak. I was an 18-year-old girl curled up in a ball like a baby.
+            </p>,
+            <p key="p83" className="indent story-paragraph">
+                Each kick had more power behind it. It was like he never grew tired and just couldn’t get enough like he was enjoying every moment of this. 
+            </p>,
+            <p key="p84" className="indent story-paragraph">
+                I did my best to turn my back to him. I went from laying on my side to forcing myself onto my knees and placing my hands behind my neck like I was in the middle of a tornado drill. I felt his boot come crashing down on the middle of my back. He pushed down harder and harder, squashing me like the little bug he thought I was. I wondered if ants felt this way when a giant shoe came crashing down on them, filled with fear and hopelessness, knowing all they could do is wait for their death.
+            </p>,
+            <p key="p85" className="indent story-paragraph">
+                Even if he gave me time to answer his pathetic question, I wouldn’t have. I would not have given him the pleasure or satisfaction in thinking he had won; that again he was right, because he is always right. This time, even if it meant my death, he was going to learn that he is the one that is wrong.
+            </p>,
+            <p key="p86" className="indent story-paragraph">
+                My vision blurred. I didn’t need to see, to know that Lisa, my own mother, the woman who gave me life, came back down the stairs after running from a goddamn bird and was watching from the archway. Just watching and unable to care enough to stop Frank. Johnny was jumping around, imitating the old fat man as though he were a wrestler. Angel never left her room even though she could hear everything that was happening.
+            </p>,
+            <p key="p87" className="indent story-paragraph">
+                My brain lost focus of what was going on around me. Everything was going black and for a moment, only a split moment, I felt a rush of panic as I felt death creeping up on me. I wanted it to stop. I wanted to plead and apologize, but my voice was broken, my body was too weak to lift even a finger off the ground, and my motor skills were useless. Years, it seemed like I laid on the cold wooden floor with his boots jabbing into me. The pain lessened as the blurriness changed and utter darkness took over.
+            </p>,
+            <p key="p88" className="indent story-paragraph">
+                Somehow, my body still became weaker. The sounds of Frank and my brother grew muffled, like I was swimming in the ocean. My mind became quiet. Then there was silence.
+            </p>,
+            <p key="p89" className="indent story-paragraph">
+                The sound of the front door opening pulled me back to consciousness. I couldn’t see, but again I was aware of what was going on.
+            </p>,
+            <p key="p90" className="indent story-paragraph">
+                “What’s so funny, little guy?” Dustin asked.
+            </p>,
+            <p key="p91" className="indent story-paragraph">
+                Hearing his voice, I thought, Dustin, I am almost gone. Just let him kill me, let me be free of this dreadful, disgusting thing I have had to call life.
+            </p>,
+            <p key="p92" className="indent story-paragraph">
+                Frank stopped kicking me and so did all the sounds. Even little Johnny ceased to make noise, which never happened.
+            </p>,
+            <p key="p93" className="indent story-paragraph">
+                Dustin flopped his arms around me and turned me onto my back, then pulled me in close. “Call for help!” He screamed. “Haley, Haley, open your eyes. Haley! Open your eyes!” On his command, I did. They were heavy and impossible to keep open. Looking at him, I hoped that if he could see the soullessness my father caused then maybe he would understand, he would just let me be.
+            </p>,
+            <p key="p94" className="indent story-paragraph">
+                Tears streamed down his face and fell onto my cheek. “Good, now stay with me, Hal. Help is coming, okay? No, no. Haley, you have to keep your eyes open! Haley, don’t leave me, HALEY!” His pleading voice echoed inside my head as the world began to spin and spin, round and around in circles I went. I could still feel him pulling me in tighter. The quiet finally came as Dustin’s echoed voice stopped and my last thought emerged, “God, please let me be dead.”
+            </p>,
+        ]
     },
 ]
 
