@@ -1,41 +1,33 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import './storyIndex.css';
-import { Container, Paper, List, ListItem, Button} from '@mui/material';
-import Chapters from '../chapters/Chapters'
+import { Container, List, ListItem, Button} from '@mui/material';
+
 
 const StoryIndex = (props) => {
     const { chapters } = props;
 
-    const { currentPage, handlePageChange } = props;
-
-    const [header, setHeader ] = useState('Hi');
-
-    
+    const [header, setHeader ] = useState('Index');
 
     const _renderChapter = (item, index) => {
         
         setHeader(item.title);
         return (
-            <div key={index}>
+            <Container key={index}>
                 {item.body}
                 {console.log(item.title)}
-            </div>
+                <Button onClick={() => setDisplay(chapters.map(_renderTitles))}> Back to Index </Button>
+            </Container>
         )
     }
 
     const _renderTitles = (item, index) => {
-        useEffect(() => {
-            setHeader("Index")
-        }, [])
-       
-        
+
         return (
             <List key={index} className="index-list">
                 
                 <ListItem className="index-item">
                     <Button className="index-button" onClick={() => setDisplay(_renderChapter(item, index))}>
-                        {item.title}
-                
+                        {item.title}                
                     </Button>
                 </ListItem>
             </List>

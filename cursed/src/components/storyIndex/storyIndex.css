@@ -20,3 +20,11 @@
 .index-item {
     justify-content: center !important;
 }
+
+.indent {
+    text-indent: 10%;
+}
+
+.story-paragraph {
+    text-align:left;
+}
