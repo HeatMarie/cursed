@@ -316,7 +316,63 @@ const chapters = [
     {
         id: 2,
         title: `Chapter 2: Dead or Alive?`,
-        body: 'Coming Soon!'
+        body: [
+            <p key="p95" className="indent story-paragraph">
+                The sun’s rays penetrated my closed eyes. Slowly, I opened them to see large stalks of corn swaying above me as the gentle breeze enhanced the earthy smell from the dirt that I laid upon. I watched a large black and yellow garden spider spin its web above me. It danced to the music playing off in the distance, moving from side to side like a ballet dancer with its web glistening in the sun's spotlight.
+            </p>,
+            <p key="p96" className="indent story-paragraph">
+                Somewhere beyond the field, that soft, elegant song sang to me a story of love, hope, and joy. It beckoned me, calling my name, not with words, but with a graceful melody. I crawled out from beneath the spider and its web stood up and brushed the dirt from my pants.
+            </p>,
+            <p key="p97" className="indent story-paragraph">
+                A crow cawed from up above. “Hello, my friend,” I said, curious if it was the same bird Frank killed with his bare hands. Would it be a surprise if we both ended up in the same place when we died? Was I dead?
+            </p>,
+            <p key="p98" className="indent story-paragraph">
+                I looked around, looking for a sign. No Angels came down from the sky, nor did demons crawl up from the ground. I closed my eyes, took in a breath of the fresh air, and listened.
+            </p>,
+            <p key="p99" className="indent story-paragraph">
+                The crow spun in a circle above my head before coming down to greet me. It made another sound, then looked up at me, staring with its black beady eyes as though perhaps it was wondering if I was the same girl it followed into the house where it died. 
+
+            </p>,
+            <p key="p100" className="indent story-paragraph">
+                “What cha’ thinking, little guy?” I asked.
+            </p>,
+            <p key="p101" className="indent story-paragraph">
+                It cawed, spread its wings, and took flight. Landing a few yards ahead of me, it tilted its head from side to side, then cawed. "You want me to follow you?" I asked. It cawed in reply. 
+            </p>,
+            <p key="p102" className="indent story-paragraph">
+                “Where are we going?” The words felt foolish. It’s just a bird. To expect an answer was ridiculous. Besides, why does it care where I go? It could be one of those. Oh, what do they call them? Spirit animals or something? That’s only if you believe in such things, and I didn’t. I shook my head, looked around. No one was watching me. So, I did what I thought I was supposed to do; I followed the bird.
+            </p>,
+            <p key="p103" className="indent story-paragraph">
+                “You better not be lying to me.”
+            </p>,
+            <p key="p104" className="indent story-paragraph">
+                The soft melody put me in a trance as it swam inside my head. I didn't even notice the husks of the corn scraping against my skin.
+            </p>,
+            <p key="p105" className="indent story-paragraph">
+                A dirt road emerged from behind the last row of corn and my eyes followed the bird as it flew across the road and perched himself on the open gate of a black fence that was laced with yellow rose vines. I followed him down a cobblestone path lined with strategically placed flowers. Everything was perfect. The smell, the sun, the gentle breeze… the music. Blissfulness surrounded me, making me feel as though the entire place was built just for me.
+            </p>,
+            <p key="p106" className="indent story-paragraph">
+                I walked slow enough to take in the beauty and fast enough to keep up with the crow who would take off in flight, then land back onto the ground and make sure I was following. 
+            </p>,
+            <p key="p107" className="indent story-paragraph">
+                The path came to a fork and, for the first time; I noticed the mansion that sat at the bottom of the hill off to my left. The other path ran alongside a creek and disappeared into the darkened woods. There was a pulling coming from both directions. I felt obligated to go toward the mansion, but from the woods, the pulling was that of a desire, a want, and a craving. I closed my eyes for a moment, hoping something would guide me in the right direction. Steady flowing water sounded from the creek and overpowered that of the soft piano melody. I took that as my sign and headed toward the woods.
+            </p>,
+            <p key="p108" className="indent story-paragraph">
+                The crow squealed from the lamppost.
+            </p>,
+            <p key="p109" className="indent story-paragraph">
+                “Really?” I said l, shaking my head as I continued down the path I had chosen.
+            </p>,
+            <p key="p110" className="indent story-paragraph">
+                The wings of the bird brushed against my arm, it turned in midair, then sat itself down on the ground just as it did before. It looked up at me, tilted its head from side to side, then screamed, “CAW”.
+            </p>,
+            <p key="p111" className="indent story-paragraph">
+                I sighed. “Fine!”
+            </p>,
+            <p key="p112" className="indent story-paragraph">
+                Reluctantly, I turned around and followed the other path towards the mansion. 
+            </p>,
+        ]
     },
 ]
 

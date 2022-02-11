@@ -7,7 +7,7 @@ const StoryIndex = (props) => {
     const { chapters } = props;
     // console.log(chapters[0 + 1])
 
-    const [header, setHeader ] = useState();
+    const [header, setHeader ] = useState("Index");
     let newBodyArray = [];
     let newChapter = [];
     
