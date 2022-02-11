@@ -374,6 +374,14 @@ const chapters = [
             </p>,
         ]
     },
+    {
+        id: 3,
+        title: `Chapter 3: Happy Birthday`,
+        body: [
+            <p key="p113" className="indent story-paragraph">Coming Soon!</p>,
+            <p key="p114" className="indent story-paragraph"></p>,
+        ]    
+    },
 ]
 
 export default chapters;
