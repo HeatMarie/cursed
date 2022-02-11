@@ -2,6 +2,11 @@ import React, { useState } from "react";
 import './storyIndex.css';
 import { Container, List, ListItem, Button} from '@mui/material';
 
+/* ---------------- TODO: -------------------
+    Create a button for previous chapter
+    figure out function for pagination
+    
+*/
 
 const StoryIndex = (props) => {
     const { chapters } = props;

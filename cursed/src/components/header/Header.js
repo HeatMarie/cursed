@@ -11,6 +11,7 @@ const Header = () => {
           className="videoImg"
           autoPlay
           loop
+          muted
         >
           <source src={ ink }  type="video/mp4" />
         </video>
