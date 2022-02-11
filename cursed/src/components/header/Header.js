@@ -4,7 +4,6 @@ import piano from '../images/pianoFlower.jpg';
 import './header.css'
 
 const Header = () => {
-    const [currentPage, setCurrentPage] = useState('Info');
     return (
         <header>
         <img src={piano} className="pianoImg" alt="logo" />

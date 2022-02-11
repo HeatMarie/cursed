@@ -3,7 +3,7 @@
 
 const chapters = [
     {
-        id: 1,
+        id: 0,
         title: `Prelude: A Demon's Haunting`,
         body: [ 
             <p key="p0" className="indent story-paragraph">
@@ -133,7 +133,7 @@ const chapters = [
         ]
     },
     {
-        id: 2,
+        id: 1,
         title: `Chapter 1: From The Beginning`,
         body: [ 
             <p key="p37" className="indent story-paragraph">
@@ -314,7 +314,7 @@ const chapters = [
         ]
     },
     {
-        id: 3,
+        id: 2,
         title: `Chapter 2: Dead or Alive?`,
         body: 'Coming Soon!'
     },
